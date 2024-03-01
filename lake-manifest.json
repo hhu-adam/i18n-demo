@@ -1,0 +1,14 @@
+{"version": 7,
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"url": "https://github.com/hhu-adam/lean-i18n",
+   "type": "git",
+   "subDir": null,
+   "rev": "d54c5cbcb60462d169771c58bf30a244ca8ce832",
+   "name": "i18n",
+   "manifestFile": "lake-manifest.json",
+   "inputRev": "main",
+   "inherited": false,
+   "configFile": "lakefile.lean"}],
+ "name": "demo",
+ "lakeDir": ".lake"}

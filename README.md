@@ -1,0 +1,1 @@
+Demo Project for the [lean-i18n](https://github.com/hhu-adam/lean-i18n) package for Lean 4.

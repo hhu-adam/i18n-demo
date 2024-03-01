@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: demo v4.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Mar  1 10:35:50 2024\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"Language: fr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: Demo.Basic
+msgid "hello world"
+msgstr "bonjour tout le monde"
